@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning github and React.js
+- 🌱 I’m currently learning React.js
 
 <!--
 **inverseswirl/inverseswirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
