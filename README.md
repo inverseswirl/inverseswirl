@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m self taught front-end web developer.
-- 🔭 I am currently reading Next.js and working on a messenger app.
+- 🔭 I am currently working on a messenger app using Gatsby framework.
 
 <!--
 **inverseswirl/inverseswirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
