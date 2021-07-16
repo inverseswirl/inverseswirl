@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m self taught front-end web developer.
-- 🔭 I am currently working on a messenger app using Gatsby framework.
+- 🔭 I am currently working on a messenger app using Gatsby framework for front-end and Nodejs for back-end.
 
 <!--
 **inverseswirl/inverseswirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
