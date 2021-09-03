@@ -1,16 +1,17 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 - 🌱 I’m self taught front-end web developer.
 - 🔭 I am currently working on a messenger app using Gatsby framework for front-end and Nodejs for back-end.
-- 🔭 I am also learning ruby programming language.
+- 🔭 I am also learning ruby programming language. -->
 
 
-<img  src="./intro.jpg" height="100" width="250" alt="intro-pic">
+<img style="display:block; border-radius:4px; border: 1px solid rgba(36, 41, 47,0.3);padding: 0px;" src="./intro.jpg" height="420" width="660" alt="intro-pic">
 
-```
-Total Commits - 335 in 2021.
 
-```
+<p style="border-top: 1px solid rgba(36, 41, 47,0.3); border-bottom: 1px solid rgba(36, 41, 47,0.3);     font-family: monospace; font-size:1rem; ">Total Commits - 335 in 2021</p>
+
+
+
 
 
 
