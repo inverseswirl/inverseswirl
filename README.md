@@ -5,10 +5,10 @@
 - 🔭 I am also learning ruby programming language. -->
 
 
-<img style="display:block; border-radius:4px; border: 1px solid rgba(36, 41, 47,0.3);padding: 0px;" src="./intro.jpg" height="420" width="660" alt="intro-pic">
+<!-- <img style="display:block; border-radius:4px; border: 1px solid rgba(36, 41, 47,0.3);padding: 0px;" src="./intro.jpg" height="420" width="660" alt="intro-pic"> -->
 
 
-<p style="border-top: 1px solid rgba(36, 41, 47,0.3); border-bottom: 1px solid rgba(36, 41, 47,0.3);     font-family: monospace; font-size:1rem; ">Total Commits - 335 in 2021</p>
+<p style="border-top: 1px solid rgba(36, 41, 47,0.3); border-bottom: 1px solid rgba(36, 41, 47,0.3);     font-family: monospace; font-size:1rem; ">Total Commits - 597 </p>
 
 
 
